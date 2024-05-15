@@ -4,9 +4,9 @@
    <name>DataDrivenTestingDemo1</name>
    <tag></tag>
    <UUID>c35d6270-dca3-4614-8c93-5ce1dafb3374</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>D:\Katalon\Training MII\Day2\DataDrivenTestingDemo1\DataDrivenTestingDemo1.prj</projectFileLocation>
